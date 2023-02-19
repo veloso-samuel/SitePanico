@@ -1,2 +1,2 @@
 # SitePanico
-Projeto Pessoal criado.
+Projeto Pessoal.
